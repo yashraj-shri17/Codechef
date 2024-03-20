@@ -6,6 +6,7 @@ int main(void) {
 	int n;
 	// scan  var
 	scanf("%d",&n);
+	// print for loop
 	if(n>30){
 	    printf("YES");
 	}
